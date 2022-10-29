@@ -1,0 +1,2 @@
+# tech_start_up_every_day
+每日一个技术创业idea
